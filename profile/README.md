@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets\Micro Nord org icon png.png" width = 150rem/>
+    <img src="https://i.imgur.com/xDQfTqK.png" width = 150rem/>
 </p>
 <br>
 <h2 align="center"> <b>Micro Nordic</b> </h2>
